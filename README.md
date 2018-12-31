@@ -8,7 +8,7 @@ There are two types of *emitters*: square and circle. They send little circles a
 
 
 ### how to play 
-Download love2D from [love2D](love2d.org). On Mac of linux simply add love to your path, navigate to the directory of main.lua and run `love .`.
+Download love2D from [love2D](http://www.love2d.org). On Mac of linux simply add love to your path, navigate to the directory of main.lua and run `love .`.
 
 
 ### screen shots
