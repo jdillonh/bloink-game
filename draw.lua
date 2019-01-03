@@ -4,7 +4,6 @@ local emitter = require "emitter"
 draw = {}
 
 
-draws={}
 
 draw.world = function(worldTable)  --table of all objects in a world: i.e. melodyObj etc.
 
