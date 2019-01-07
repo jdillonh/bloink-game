@@ -1,5 +1,5 @@
 # bloink-game
-A fun game about making music, made with Love2D
+A fun game about making music, made with Love2D 0.10.0
 
 ### how it works
 There are two types of *emitters*: square and circle. They send little circles and squares respectively into the scene. When those little projectiles collide with other things in the scene they make a sound, whose pitch coorelates to the velocities of the moving bodies involved.
